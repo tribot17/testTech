@@ -1,0 +1,112 @@
+[
+  {
+    "id": 183,
+    "nefturian": {
+      "name": "Belzebuth - Nefturian #183",
+      "image": "http://api.nefturians.io/nefturians/images/183",
+      "description": "Nefturians - NFT Collection of 3D assets, Netaverse ready. By Nefture.",
+      "attributes": [
+        { "trait_type": "Location", "value": "Slain City" },
+        { "trait_type": "Head", "value": "Commando Kettei" },
+        { "trait_type": "Shoulders", "value": "Keiken" },
+        { "trait_type": "Armor", "value": "Tetsu" },
+        { "trait_type": "N-Color", "value": "Dark Shukan" },
+        { "trait_type": "View", "value": "front" },
+        { "trait_type": "Weapon", "value": "Lava Devil Hammer" },
+        { "trait_type": "Clan", "value": "Samurian" },
+        { "trait_type": "Eyes", "value": "Yellow" },
+        {
+          "trait_type": "Dexterity",
+          "display_type": "boost_number",
+          "value": "4"
+        },
+        {
+          "trait_type": "Constitution",
+          "display_type": "boost_number",
+          "value": "5"
+        },
+        {
+          "trait_type": "Perception",
+          "display_type": "boost_number",
+          "value": "4"
+        },
+        {
+          "trait_type": "Charisma",
+          "display_type": "boost_number",
+          "value": "8"
+        },
+        {
+          "trait_type": "Agility",
+          "display_type": "boost_number",
+          "value": "5"
+        },
+        {
+          "trait_type": "Intelligence",
+          "display_type": "boost_number",
+          "value": "6"
+        },
+        {
+          "trait_type": "Strength",
+          "display_type": "boost_number",
+          "value": "5"
+        }
+      ]
+    },
+    "side": "Samurian"
+  },
+  {
+    "id": 217,
+    "nefturian": {
+      "name": "Kristal - Nefturian #217",
+      "image": "http://api.nefturians.io/nefturians/images/217",
+      "description": "Nefturians - NFT Collection of 3D assets, Netaverse ready. By Nefture.",
+      "attributes": [
+        { "trait_type": "Location", "value": "Grey Halo" },
+        { "trait_type": "Head", "value": "Mat Gold Spotter" },
+        { "trait_type": "Shoulders", "value": "U-19" },
+        { "trait_type": "Armor", "value": "White Naver" },
+        { "trait_type": "N-Color", "value": "TechX" },
+        { "trait_type": "View", "value": "front" },
+        { "trait_type": "Weapon", "value": "Crystal Saber" },
+        { "trait_type": "Clan", "value": "Cyberian" },
+        { "trait_type": "Eyes", "value": "Violet" },
+        {
+          "trait_type": "Dexterity",
+          "display_type": "boost_number",
+          "value": "3"
+        },
+        {
+          "trait_type": "Constitution",
+          "display_type": "boost_number",
+          "value": "6"
+        },
+        {
+          "trait_type": "Perception",
+          "display_type": "boost_number",
+          "value": "7"
+        },
+        {
+          "trait_type": "Charisma",
+          "display_type": "boost_number",
+          "value": "7"
+        },
+        {
+          "trait_type": "Agility",
+          "display_type": "boost_number",
+          "value": "2"
+        },
+        {
+          "trait_type": "Intelligence",
+          "display_type": "boost_number",
+          "value": "5"
+        },
+        {
+          "trait_type": "Strength",
+          "display_type": "boost_number",
+          "value": "4"
+        }
+      ]
+    },
+    "side": "Cyberian"
+  }
+]
